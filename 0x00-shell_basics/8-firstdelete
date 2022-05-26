@@ -1,6 +1,2 @@
-#!/bin/bash
-<<<<<<< HEAD
-rm -r /tmp/betty /tmp/first_directory/betty
-=======
-mv /tmp/betty /tmp/first_directory/betty
->>>>>>> ae53811f74c140872f03e6c68f5f8faf6c3be9c9
+
+
