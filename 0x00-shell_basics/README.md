@@ -3,3 +3,4 @@
 * Printing the contents of current directory
 changing back to user's home directory
 * list directory contents in long format
+* list directory contents in long format including hidden files
