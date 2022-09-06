@@ -7,3 +7,4 @@ changing back to user's home directory
 * Listing directory contents with user ID as digits
 * Create a new directory under tmp folder
 * Moving file from parent directory to child folder
+* Delete file betty under directory my_fisrt_directory
