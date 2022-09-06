@@ -9,3 +9,4 @@ changing back to user's home directory
 * Moving file from parent directory to child folder
 * Delete file betty under directory my_fisrt_directory
 * Deleting directory my_first_directory under /tmp
+* change one directory back from current working directory
