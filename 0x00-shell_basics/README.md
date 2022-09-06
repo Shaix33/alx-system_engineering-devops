@@ -5,3 +5,4 @@ changing back to user's home directory
 * list directory contents in long format
 * list directory contents in long format including hidden files
 * Listing directory contents with user ID as digits
+* Create a new directory under tmp folder
