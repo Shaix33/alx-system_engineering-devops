@@ -8,3 +8,4 @@ changing back to user's home directory
 * Create a new directory under tmp folder
 * Moving file from parent directory to child folder
 * Delete file betty under directory my_fisrt_directory
+* Deleting directory my_first_directory under /tmp
