@@ -11,3 +11,4 @@ changing back to user's home directory
 * Deleting directory my_first_directory under /tmp
 * change one directory back from current working directory
 * Changes the working directory to the previous one
+* lists all files in working directory including ones that start with a period and boot directory
