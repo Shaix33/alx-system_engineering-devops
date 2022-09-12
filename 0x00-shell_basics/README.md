@@ -10,3 +10,4 @@ changing back to user's home directory
 * Delete file betty under directory my_fisrt_directory
 * Deleting directory my_first_directory under /tmp
 * change one directory back from current working directory
+* Changes the working directory to the previous one
