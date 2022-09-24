@@ -15,3 +15,5 @@
 *  Creating a symbolic link.
 * Copies all HTML files
 * Moves all files beginning with a uppercase letter
+* Removes all emacs files
+* Creates multiple directories
