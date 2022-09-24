@@ -1,16 +1,17 @@
-## Shell basics
-* A script that prints out the absolute path name of the current working directory
-* A script that prints out the contents list in current working directory
-* A script that changes the working directory to the user's home directory
-* A script displays contents of current directory in long format
-* A script displays contents of current directory including hidden files
-* A script displays contents of current directory in long format with user and group IDs
-* Cretes a new directory my_first_directory under tmp folder
-* Moving file betty from tmp to tmp/my_first_directory
-* Deleting the file betty
-* Deleting the directory my_first_directory
-* Changes directory to previous one
-* Lists all files even the ones beginning with a . in the current directory, parent directory and boot directory
-* Prints the file type of a specified file
-* Creates a symbolic link
-* Copy all files with a .html extension from current working directory to parent directory
+## <ins>Shell basics</ins>
+* Prints the absolute path name
+* Displays the content list of the current directory
+* Chanes directory to the user's home directory
+* Displays current directory contents in long format
+* Displays current directory contents, including hidden files, using the long format
+* Displays current directory contents, including hidden files, using the long format, with user group ID's
+* Creates a directory named my_first_directory in the /tmp
+* Moving the file betty from /tmp/ to /tmp/my_first_directory
+* deleting the file betty
+* Deleting the directory my_first_directory from /tmp
+* Changes working directory to previous one
+* Lists all files, even ones with names beginning with a period, in the current directory and the parent director and the boot directory in lng format.
+* Prints the type of a file.
+*  Creating a symbolic link.
+* Copies all HTML files
+* Moves all files beginning with a uppercase letter
