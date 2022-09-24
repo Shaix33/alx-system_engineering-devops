@@ -3,3 +3,4 @@
 * Print effective name of the current user
 * Prints all the groups the current user is part of
 * Changes owner of the file hello to betty
+* Creates an empty file called hello
