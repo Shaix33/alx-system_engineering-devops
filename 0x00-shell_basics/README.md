@@ -17,3 +17,5 @@
 * Moves all files beginning with a uppercase letter
 * Removes all emacs files
 * Creates multiple directories
+* Lists all files and directories, seperated by commas
+* Creates a magic file
