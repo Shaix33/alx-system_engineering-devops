@@ -1,1 +1,3 @@
 ## <ins>Shell permissions</ins>
+* Changes current user to betty
+*Print effective name of the current user
